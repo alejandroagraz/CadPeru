@@ -1,0 +1,48 @@
+<svg width="113" height="18" viewBox="0 0 113 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group 2</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(187 -3347)">
+<g id="Group 2">
+<g id="Ellipse 3" opacity="0.4">
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(-187 3349.25)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(-187 3349.25)"/>
+</g>
+</g>
+<g id="Ellipse 3.1" opacity="0.4">
+<mask id="mask1_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(-163.289 3349.25)"/>
+</mask>
+<g mask="url(#mask1_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(-163.289 3349.25)"/>
+</g>
+</g>
+<g id="Ellipse 3.2">
+<use xlink:href="#path2_fill" transform="translate(-139.578 3347)" fill="#336391"/>
+</g>
+<g id="Ellipse 3.3" opacity="0.4">
+<mask id="mask2_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(-112.48 3349.25)"/>
+</mask>
+<g mask="url(#mask2_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(-112.48 3349.25)"/>
+</g>
+</g>
+<g id="Ellipse 3.4" opacity="0.4">
+<mask id="mask3_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(-88.7691 3349.25)"/>
+</mask>
+<g mask="url(#mask3_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(-88.7691 3349.25)"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 14.6782 7.3125C 14.6782 11.3511 11.3924 14.625 7.33909 14.625C 3.28582 14.625 0 11.3511 0 7.3125C 0 3.27392 3.28582 0 7.33909 0C 11.3924 0 14.6782 3.27392 14.6782 7.3125Z"/>
+<path id="path1_stroke_2x" d="M 13.6782 7.3125C 13.6782 10.7954 10.8435 13.625 7.33909 13.625L 7.33909 15.625C 11.9412 15.625 15.6782 11.9068 15.6782 7.3125L 13.6782 7.3125ZM 7.33909 13.625C 3.83468 13.625 1 10.7954 1 7.3125L -1 7.3125C -1 11.9068 2.73696 15.625 7.33909 15.625L 7.33909 13.625ZM 1 7.3125C 1 3.82962 3.83468 1 7.33909 1L 7.33909 -1C 2.73696 -1 -1 2.71821 -1 7.3125L 1 7.3125ZM 7.33909 1C 10.8435 1 13.6782 3.82962 13.6782 7.3125L 15.6782 7.3125C 15.6782 2.71821 11.9412 -1 7.33909 -1L 7.33909 1Z"/>
+<path id="path2_fill" d="M 18.0655 9C 18.0655 13.9706 14.0214 18 9.03273 18C 4.04409 18 0 13.9706 0 9C 0 4.02944 4.04409 0 9.03273 0C 14.0214 0 18.0655 4.02944 18.0655 9Z"/>
+</defs>
+</svg>

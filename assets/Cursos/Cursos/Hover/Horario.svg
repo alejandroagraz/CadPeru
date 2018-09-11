@@ -1,0 +1,43 @@
+<svg width="33" height="37" viewBox="0 0 33 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>002-calendario-pixel</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(1404 -104)">
+<g id="002-calendario-pixel">
+<g id="Group">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(-1396.2 124.967)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(-1391.2 124.967)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(-1386.21 124.967)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(-1381.21 130.014)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(-1396.2 130.014)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(-1391.2 130.014)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(-1386.21 130.014)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(-1381.21 124.967)" fill="#FFFFFF"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(-1403.69 104.777)" fill="#FFFFFF"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 2.49796 0L 0 0L 0 2.52372L 2.49796 2.52372L 2.49796 0Z"/>
+<path id="path1_fill" d="M 24.9796 2.52372L 24.9796 0L 22.4816 0L 22.4816 2.52372L 9.99184 2.52372L 9.99184 0L 7.49388 0L 7.49388 2.52372L 0 2.52372L 0 35.3321L 32.4735 35.3321L 32.4735 2.52372L 24.9796 2.52372ZM 29.9755 32.8084L 2.49796 32.8084L 2.49796 15.1423L 29.9755 15.1423L 29.9755 32.8084ZM 29.9755 12.6186L 2.49796 12.6186L 2.49796 5.04744L 7.49388 5.04744L 7.49388 7.57117L 9.99184 7.57117L 9.99184 5.04744L 22.4816 5.04744L 22.4816 7.57117L 24.9796 7.57117L 24.9796 5.04744L 29.9755 5.04744L 29.9755 12.6186Z"/>
+</defs>
+</svg>

@@ -1,0 +1,18 @@
+<svg width="19" height="17" viewBox="0 0 19 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group 4.2</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-34 -2210)">
+<g id="Group 4.2">
+<g id="Rectangle 39.4">
+<use xlink:href="#path0_stroke" transform="matrix(0.707107 0.707107 -0.707107 0.707107 43.5001 2207.77)" fill="#B0E519"/>
+</g>
+<g id="Rectangle 39.5" opacity="0.7">
+<use xlink:href="#path1_stroke" transform="matrix(0.707107 0.707107 -0.707107 0.707107 43.5001 2207.56)"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 11.8701 11.8701L 11.8701 13.3701L 13.3701 13.3701L 13.3701 11.8701L 11.8701 11.8701ZM 10.3701 0L 10.3701 11.8701L 13.3701 11.8701L 13.3701 0L 10.3701 0ZM 11.8701 10.3701L 0 10.3701L 0 13.3701L 11.8701 13.3701L 11.8701 10.3701Z"/>
+<path id="path1_stroke" d="M 5.45406 5.45406L 5.45406 6.20406L 6.20406 6.20406L 6.20406 5.45406L 5.45406 5.45406ZM 4.70406 0L 4.70406 5.45406L 6.20406 5.45406L 6.20406 0L 4.70406 0ZM 5.45406 4.70406L 0 4.70406L 0 6.20406L 5.45406 6.20406L 5.45406 4.70406Z"/>
+</defs>
+</svg>

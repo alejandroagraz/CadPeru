@@ -1,0 +1,21 @@
+<svg width="137" height="200" viewBox="0 0 137 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Ellipse 2</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-859 -1278)">
+<g id="Ellipse 2" filter="url(#filter0_d)">
+<use xlink:href="#path0_fill" transform="translate(869 1290.01)" fill="#FFFFFF"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="859" y="1278" width="158" height="200" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="5" dy="3"/>
+<feGaussianBlur stdDeviation="7.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_fill" d="M 128 63.2034C 128 80.6289 128 169.5 128 169.5C 116 126.407 81.701 126.407 64 126.407C 28.6538 126.407 0 98.1097 0 63.2034C 0 28.2971 28.6538 0 64 0C 99.3462 0 128 28.2971 128 63.2034Z"/>
+</defs>
+</svg>

@@ -1,0 +1,18 @@
+<svg width="25" height="24" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group 2.5</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(2210 227)">
+<g id="Group 2.5" opacity="0.5">
+<g id="Ellipse 3 (Stroke)">
+<use xlink:href="#path0_fill" transform="translate(-2210 -226.99)" fill="#C0EA47"/>
+</g>
+<g id="Line (Stroke)">
+<use xlink:href="#path1_fill" transform="matrix(0.702566 0.711619 -0.702566 0.711619 -2192.87 -212.457)" fill="#C0EA47"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 9.83702 17.9348C 14.1833 17.9348 17.7066 14.366 17.7066 9.96377C 17.7066 5.5615 14.1833 1.99275 9.83702 1.99275C 5.49075 1.99275 1.9674 5.5615 1.9674 9.96377C 1.9674 14.366 5.49075 17.9348 9.83702 17.9348ZM 9.83702 19.9275C 15.2698 19.9275 19.674 15.4666 19.674 9.96377C 19.674 4.46093 15.2698 0 9.83702 0C 4.40418 0 0 4.46093 0 9.96377C 0 15.4666 4.40418 19.9275 9.83702 19.9275Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 11.2012 1.98012L 0 1.98012L 0 0L 11.2012 0L 11.2012 1.98012Z"/>
+</defs>
+</svg>
